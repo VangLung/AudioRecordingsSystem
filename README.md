@@ -1,1 +1,1 @@
-This project simulates audio recordings system, build with microservice architecture. 
+This project simulates audio recordings system, built with microservice architecture. 
